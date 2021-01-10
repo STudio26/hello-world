@@ -23,7 +23,6 @@ function fancyAlert(arg) {
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-Testing emoji
-:beer:
+Testing emoji :beer:
 
 
